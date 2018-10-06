@@ -9,9 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Blue_Tile
+  m_Name: 32x32-AutumnSpriteSheet_2
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: b7395f35064be4d47937e25ae9a3a53d, type: 3}
+  m_Sprite: {fileID: 21300004, guid: 3b9fb897f3005c34981d618e42859307, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
